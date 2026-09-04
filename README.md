@@ -65,29 +65,38 @@ I like building things end-to-end — from responsive React interfaces to REST A
 
 ## 🚀 Featured Projects
 
-**[react-hooks-project-pack](https://github.com/HafsaKokab/react-hooks-project-pack)** — React Mini Projects Collection
-React mini-apps built while learning Hooks, Context API, and routing — including a Weather App (live API data) and a Food Recipe App (Forkify API, favorites, routing).
-`React` `Vite` `React Router DOM` `Context API` `Tailwind CSS`
-
-**[Nodejs-Ecommerce-Backend](https://github.com/HafsaKokab/Nodejs-Ecommerce-Backend)** — E-commerce Backend
-Backend/full-stack e-commerce project.
-`Node.js` `Express.js` `MongoDB`
-
-**[Network-Traffic-Analyzer](https://github.com/HafsaKokab/Network-Traffic-Analyzer)** — Network Traffic Monitoring Platform
-Full-stack dashboard simulating real-time network traffic, with protocol/IP filtering and running statistics. *(Uses simulated, not live-captured, traffic data.)*
-`Python` `Flask` `HTML` `CSS` `JavaScript`
-
-**[pakistan-tourism](https://github.com/HafsaKokab/pakistan-tourism)** — Pakistan Tourism 🇵🇰
-Beginner-friendly React site showcasing tourist places in Pakistan, with component-based architecture and responsive UI.
-`React` `JSX` `CSS Flexbox/Grid`
-
-**[javascript-projects](https://github.com/HafsaKokab/javascript-projects)** & **[habit-tracker-assessment](https://github.com/HafsaKokab/habit-tracker-assessment)**
-Vanilla JS projects — Counter App, To-Do List, DSA Quiz App, and a habit tracker with weekly streaks and `localStorage` persistence.
-`JavaScript` `DOM` `HTML` `CSS`
-
-**[online-food-ordering-cpp](https://github.com/HafsaKokab/online-food-ordering-cpp)** — Online Food Ordering System
-Structured Programming project in C++.
-`C++`
+<table>
+<tr>
+<td width="30%"><strong><a href="https://github.com/HafsaKokab/react-hooks-project-pack">react-hooks-project-pack</a></strong><br/><sub>React Mini Projects Collection</sub></td>
+<td width="45%">A collection of React mini-apps built while learning Hooks, Context API, and routing — including a Weather App with live API data and a Food Recipe App using the Forkify API with favorites and routing.</td>
+<td width="25%"><code>React</code> <code>Vite</code> <code>React Router</code> <code>Context API</code> <code>Tailwind CSS</code></td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/HafsaKokab/Nodejs-Ecommerce-Backend">Nodejs-Ecommerce-Backend</a></strong><br/><sub>E-commerce Backend</sub></td>
+<td>A backend/full-stack e-commerce project built with a REST API architecture and MongoDB-backed data models.</td>
+<td><code>Node.js</code> <code>Express.js</code> <code>MongoDB</code></td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/HafsaKokab/Network-Traffic-Analyzer">Network-Traffic-Analyzer</a></strong><br/><sub>Network Traffic Monitoring Platform</sub></td>
+<td>A full-stack dashboard simulating real-time network traffic, with protocol/IP filtering and running statistics. <em>(Uses simulated, not live-captured, traffic data.)</em></td>
+<td><code>Python</code> <code>Flask</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/HafsaKokab/pakistan-tourism">pakistan-tourism</a></strong> 🇵🇰<br/><sub>Pakistan Tourism</sub></td>
+<td>A beginner-friendly React site showcasing tourist destinations across Pakistan, built with component-based architecture and a responsive UI.</td>
+<td><code>React</code> <code>JSX</code> <code>CSS Flexbox/Grid</code></td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/HafsaKokab/javascript-projects">javascript-projects</a></strong> &amp; <strong><a href="https://github.com/HafsaKokab/habit-tracker-assessment">habit-tracker-assessment</a></strong><br/><sub>Vanilla JS Projects</sub></td>
+<td>A set of vanilla JavaScript projects — a Counter App, To-Do List, and DSA Quiz App — plus a habit tracker with weekly streaks and <code>localStorage</code> persistence.</td>
+<td><code>JavaScript</code> <code>DOM</code> <code>HTML</code> <code>CSS</code></td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/HafsaKokab/online-food-ordering-cpp">online-food-ordering-cpp</a></strong><br/><sub>Online Food Ordering System</sub></td>
+<td>A structured programming project implementing an online food ordering workflow.</td>
+<td><code>C++</code></td>
+</tr>
+</table>
 
 ---
 
