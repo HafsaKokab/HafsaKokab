@@ -158,30 +158,23 @@ Software Engineering
 ---
 
 ## 📊 Summary
-
 ## 📊 GitHub Summary
 
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafsaKokab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaKokab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</td>
-</tr>
-</table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HafsaKokab&theme=tokyonight&hide_border=true)
-
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HafsaKokab&theme=tokyo-night&hide_border=true&area=true)
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HafsaKokab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaKokab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HafsaKokab&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com/?user=HafsaKokab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HafsaKokab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HafsaKokab&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
