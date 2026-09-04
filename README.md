@@ -137,6 +137,23 @@ Currently extending this into **TypeScript**, **Next.js** (App Router, SSR/SSG/I
 
 ---
 
+## 🗺️ Full-Stack Roadmap — Progress (Summer 2026)
+
+Completed a structured full-stack development roadmap during summer vacation, covering:
+
+| Stage | Topics Covered |
+|---|---|
+| **Foundations** | Semantic HTML, CSS Box Model, Flexbox, CSS Grid, responsive layouts |
+| **JavaScript** | Core JS (variables, functions, DOM, events), Advanced JS (prototypes, ES6+, generators, modules), FreeCodeCamp JS Algorithms & Data Structures |
+| **React** | JSX, components, props, `useState`/`useEffect`, hooks-based mini projects, Context API |
+| **Backend** | Node.js core (event loop, fs, HTTP server), Express.js REST APIs, MongoDB + Mongoose, JWT authentication |
+| **Applied Project** | Node.js e-commerce backend (auth, product & order CRUD, MVC structure) |
+| **In Progress** | TypeScript, advanced React state management (Redux Toolkit), Next.js, DevOps essentials |
+
+> 📌 Roadmap steps involving a *choice of project option* (e.g. mega basic/intermediate projects) are in progress — exact selections will be reflected here once finalized.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -148,18 +165,34 @@ Currently extending this into **TypeScript**, **Next.js** (App Router, SSR/SSG/I
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HafsaKokab&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
+
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=HafsaKokab&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
+## 🎯 Goals
+
+- 🚀 Strengthen full-stack development skills across the MERN stack
+- ⚛️ Build more production-style React applications with clean state management
+- 🟢 Deepen backend architecture and API design skills with Node.js & Express.js
+- 🧠 Continue improving DSA and problem-solving through consistent C++ practice
+- 📘 Complete the ongoing roadmap — TypeScript, Next.js, and DevOps fundamentals
+- 🌱 Continue exploring advanced software and AI engineering directions
+
+---
+
 ## 🌐 Connect With Me
 
-- 💻 GitHub: [HafsaKokab](https://github.com/HafsaKokab)
-- 🔗 LinkedIn: [Add LinkedIn URL]
-- 📧 Email: [Add Email]
-- 🌍 Portfolio: [Add Portfolio URL]
+<p align="center">
+<a href="https://github.com/HafsaKokab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/hafsa-kokab-288766343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:engrhafsakokab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
