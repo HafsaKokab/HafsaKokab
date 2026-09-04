@@ -167,7 +167,6 @@ Completed a structured full-stack development roadmap during summer vacation, co
 | **Applied Project** | Node.js e-commerce backend (auth, product & order CRUD, MVC structure) |
 | **In Progress** | TypeScript, advanced React state management (Redux Toolkit), Next.js, DevOps essentials |
 
-> 📌 Roadmap steps involving a *choice of project option* (e.g. mega basic/intermediate projects) are in progress — exact selections will be reflected here once finalized.
 
 ---
 
