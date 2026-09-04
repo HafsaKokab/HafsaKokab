@@ -1,8 +1,8 @@
 
-
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hafsa+Kokab+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;React+%7C+Node.js+%7C+Backend+Development+%7C+DSA" alt="Typing SVG" />
 
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=HafsaKokab&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=150&section=header&text=Hafsa%20Kokab&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
