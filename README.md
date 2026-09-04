@@ -1,11 +1,13 @@
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hafsa+Kokab+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;React+%7C+Node.js+%7C+Backend+Development+%7C+DSA" alt="Typing SVG" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Hafsa%20Kokab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" alt="Header Banner" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=HafsaKokab&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hafsa+Kokab+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;React+%7C+Node.js+%7C+Backend+Development+%7C+DSA" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=150&section=header&text=Hafsa%20Kokab&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HafsaKokab&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/HafsaKokab?label=Followers&style=flat-square&color=7AA2F7" alt="Followers" />
 
 </div>
 
