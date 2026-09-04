@@ -110,24 +110,41 @@ Core backend concepts practiced: REST APIs · CRUD · JWT Authentication · Prot
 ## 📚 Learning Journey
 
 ```
-HTML/CSS & JavaScript Fundamentals
+Software Engineering
         │
-        ├── DOM Manipulation & JS Projects
-        ├── Git & GitHub
-        │
-        ├── React
-        │      ├── Hooks · Context API
-        │      └── React Router
+        ├── Web Development
+        │      │
+        │      ├── HTML
+        │      ├── CSS
+        │      ├── JavaScript
+        │      └── React.js
         │
         ├── Backend Development
-        │      ├── Node.js & Express.js
-        │      ├── REST APIs · CRUD
-        │      ├── JWT · Auth · Protected Routes
-        │      └── MongoDB & Mongoose
+        │      │
+        │      ├── Node.js
+        │      ├── Express.js
+        │      ├── REST APIs
+        │      └── Python + Flask
         │
-        ├── Python + Flask
+        ├── Databases
+        │      │
+        │      ├── MongoDB
+        │      └── Mongoose
+        │
+        ├── Authentication & Security
+        │      │
+        │      ├── JWT
+        │      ├── Protected Routes
+        │      └── Password Reset / Email-SMTP
+        │
+        ├── Development Tools
+        │      │
+        │      ├── Git
+        │      ├── GitHub
+        │      └── VS Code
         │
         └── Computer Science
+               │
                ├── Data Structures & Algorithms
                ├── Object-Oriented Programming
                └── Structured Programming (C++)
