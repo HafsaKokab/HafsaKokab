@@ -159,36 +159,30 @@ Software Engineering
 
 ## 📊 Summary
 
-<div align="center">
+## 📊 GitHub Summary
 
-<img src="https://github-readme-stats.vercel.app/api?username=HafsaKokab&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaKokab&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+<table>
+<tr>
+<td width="50%">
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafsaKokab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-### GitHub Streak
+</td>
+<td width="50%">
 
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaKokab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaKokab&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HafsaKokab&theme=tokyonight&hide_border=true)
 
-### GitHub Activity
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HafsaKokab&theme=tokyo-night&hide_border=true&area=true)
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HafsaKokab&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
-
-</div>
-
-### GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HafsaKokab&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HafsaKokab&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
