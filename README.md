@@ -158,7 +158,7 @@ Software Engineering
 
 ---
 
-## 📊 Summary
+
 ## 📊 GitHub Summary
 
 <p align="center">
@@ -171,12 +171,10 @@ Software Engineering
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HafsaKokab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://ghchart.rshah.org/6c63ff/HafsaKokab" alt="Contribution Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HafsaKokab&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+
 
 ---
 
